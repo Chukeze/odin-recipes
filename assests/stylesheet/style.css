@@ -1,3 +1,6 @@
+html{
+    box-sizing: border-box;
+}
 body{
     font-family: Arial, Verdana, 'Geneva', Tahoma, Helvetica, sans-serif;
 }
@@ -21,4 +24,14 @@ img{
 
 h1,ul{
     background-color: silver;
+}
+.desc,.lure{
+    color:darkslategray;
+}
+li p{
+    color: hsl(2, 50%, 50%);
+}
+li.steps{
+    text-decoration: overline;
+    list-style: armenian;
 }
