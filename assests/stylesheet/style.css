@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Verdana, 'Geneva', Tahoma, Helvetica, sans-serif;
+}
+li{
+    list-style: square;
+}
+.desc{
+    font-size: 20px;
+    font-weight: 400;
+}
+h2 + .section{
+    background-color: honeydew;
+    font-size: 18px;
+    border-radius: 2%;
+    border: 5px skyblue solid;
+}
+img{
+    width: 400px;
+    height: auto;
+}
